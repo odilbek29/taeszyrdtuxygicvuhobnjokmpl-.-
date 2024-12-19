@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: black;
+    padding: 40px 0;
+}
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 100px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    color: white;
+    text-shadow: 0px 4px 7.4px  #FFFFFF;
+}
+
+.hero{
+    padding: 100px 0;
+  background-image: url("./Rectangle\ 2.png");
+}
+
+h1{
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+width: 602px;
+height: 75px;
+background-color: #FFFFFF;
+border-radius: 50px;
+box-shadow: 16px 18px 28px 0px #FFFFFF40;
+margin: 10px auto;
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.yashil{
+width: 237px;
+height: 209px;
+background: #32FB00;
+box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+padding-top: 146px;
+text-align: center;
+position: relative;
+}
+
+
+.yashil h2{
+    color: red;
+}
+
+.qizil{
+    width: 237px;
+    height: 209px;
+    background: red;
+    box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+    padding-top: 100px ;
+  text-align: center;
+  position: absolute;
+  top: -150px;
+  left: 140px;
+}
+.qizil h2{
+    color: white;
+}
+
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+
+.yashil2{
+    width: 237px;
+    height: 209px;
+    background: #32FB00;
+    box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+    padding-top: 146px;
+    text-align: center;
+    position: relative;
+    }
+    
+    
+    .yashil2 h2{
+        color: red;
+    }
+    
+    .qizil2{
+        width: 411px;
+        height: 209px;
+        border-radius: 150px;
+        background: red;
+        box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+        padding-top: 100px ;
+      text-align: center;
+      position: absolute;
+      top: -150px;
+      left: -100px;
+    }
+    .qizil2 h2{
+        color: white;
+    }
+    
+    .yashil3{
+        width: 237px;
+        height: 209px;
+        background: #32FB00;
+        box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+        padding-top: 146px;
+        text-align: center;
+        position: relative;
+        }
+        
+        
+        .yashil3 h2{
+            color: red;
+        }
+        
+        .qizil3{
+            width: 237px;
+            height: 209px;
+            background: red;
+            box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+            padding-top: 100px ;
+          text-align: center;
+          position: absolute;
+          top: -150px;
+          left: -100px;
+        }
+        .qizil3 h2{
+            color: white;
+        }
+        
+.info{
+    padding: 80px 0;
+    background: black ;
+}
+
+.a{
+    width: 368px;
+    height: 332px;
+    background-color: #7B2525;
+}
+
+.ota2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 88px;
+    margin: 125px 101px;
+}
+
+
+.a h2{
+    margin-top: 50px;
+font-size: 32px;
+font-weight: 700;
+line-height: 38.73px;
+text-align: center;
+color: white;
+text-shadow: 0px 4px 7.4px  #FFFFFF;
+
+}
+
+
+p{
+    color: white;
+    margin-top: 68px ;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+text-align: center;
+padding-left: 52px;
+padding-right: 52px;
+}
+
+
+img{
+    padding: 27px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
